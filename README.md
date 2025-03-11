@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HaTToek/leetcode/tree/master/0001-two-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/HaTToek/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HaTToek/leetcode/tree/master/0001-two-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HaTToek/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3227-find-missing-and-repeated-values](https://github.com/HaTToek/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
