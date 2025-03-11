@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HaTToek/leetcode/tree/master/0002-add-two-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HaTToek/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/HaTToek/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HaTToek/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/HaTToek/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/HaTToek/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
