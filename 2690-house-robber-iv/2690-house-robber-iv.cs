@@ -4,20 +4,15 @@ public class Solution {
 
         while(left < right){
             int mid = (left + right) / 2;
-            int robCount = 0;
-
+            int count = 0;
             for(int i=0;i<nums.Count();i++){
                 if(nums[i] <= mid){
-                    robCount++;
+                    count++;
                     i++;
                 }
             }
-            if(robCount >= k){
-                right = mid;
-            }
-            else {
-                left = mid + 1;
-            }
+            if(count >= k) right = mid;
+            else left = mid + 1;
         }
         return left;
     }
