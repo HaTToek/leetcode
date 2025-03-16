@@ -1,8 +1,5 @@
 public class Solution {
     public int MaximumCandies(int[] candies, long k) {
-        int total = candies.Sum();
-        if(total < k) return 0;
-
         int left = 1, right = candies.Max();
         int result = 0;
 
